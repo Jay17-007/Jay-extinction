@@ -1,4 +1,7 @@
 @import url(../fonts/AlexBrush-Regular.ttf)
+h2 {
+  font-family: AlexBrush, sans serif;
+}
 
 * {
   margin: 0;
