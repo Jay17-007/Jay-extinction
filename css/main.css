@@ -61,6 +61,14 @@ body {
    max-width: 100%;
 }
 
+img {
+  float: left;
+}
+
+.text {
+  float: right;
+}
+
 /*--------------
       Footer
 --------------*/
